@@ -129,6 +129,17 @@ while True:
     # 休眠五分钟
     time.sleep(300)
 ```
+![图一](img/img1.png)
+图一
+![图二](img/img2.png)
+图二
+![图三](img/img3.png)
+图三
+![图四](img/img4.png)
+图四
+![图五](img/img5.png)
+图五   
+
 VBScript模块：
 ```
 ' 指定执行过程中出错的处理方式
@@ -140,7 +151,7 @@ Set Wshshell=WScript.CreateObject("WScript.Shell")
 ' 停顿一秒
 WScript.Sleep 1000
 
-' 打开桌面应用程序（聊天窗口的桌面快捷方式，如图6）
+' 打开桌面应用程序（聊天窗口的桌面快捷方式，如图6，需要在路径中的双引号之前加一个"）
 WshShell.run"""C:\Program Files (x86)\Tencent\QQ\Bin\QQScLauncher.exe"" /uin:1377875184 /quicklunch:DAE2992EB7205B7043A8611627A0F8D54B17D727B40D3E6463DAD4924D6851C88C012C2BA0ECDF07"
 
 WScript.Sleep 1000
@@ -153,3 +164,7 @@ WScript.Sleep 1000
 ' 发送
 WshShell.SendKeys "%s"
 ```
+
+![图六](img/img6.png)
+图六
+
