@@ -2,7 +2,9 @@ On Error Resume Next
 
 Set Wshshell=WScript.CreateObject("WScript.Shell")
 
-WshShell.run"""C:\Program Files (x86)\Tencent\QQ\Bin\QQScLauncher.exe"" /uin:3528275423 /quicklunch:6886EE5EFC1860EC08125DA0051541B7CEA41EE7D9B5D6C4FFDEE949B8CB5B01A0FB09115D98A1A9"
+WScript.Sleep 1000
+
+WshShell.run"""C:\Program Files (x86)\Tencent\QQ\Bin\QQScLauncher.exe"" /uin:1377875184 /quicklunch:DAE2992EB7205B7043A8611627A0F8D54B17D727B40D3E6463DAD4924D6851C88C012C2BA0ECDF07"
 
 WScript.Sleep 1000
 
