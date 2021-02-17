@@ -1,5 +1,6 @@
 # autobrowser
-
+GitHub链接：[https://github.com/zhinushannan/autobrowser](https://github.com/zhinushannan/autobrowser)
+Gitee链接：[https://gitee.com/zhinushannan/autobrowser](https://gitee.com/zhinushannan/autobrowser)
 ---
 
 # autobrowser
